@@ -1,7 +1,7 @@
 {
 	"name": "wp-pay-gateways/sisow-ideal-basic",
-	"description": "Sisow - iDEAL Basic driver for the WordPress payment processing library.",
-	"keywords": ["wordpress", "wp", "pay", "sisow", "ideal", "lite", "basic", "gateway", "pronamic"],
+	"description": "[DEPRECATED] Sisow - iDEAL Basic driver for the WordPress payment processing library.",
+	"keywords": ["deprecated", "wordpress", "wp", "pay", "sisow", "ideal", "lite", "basic", "gateway", "pronamic"],
 	"homepage": "http://www.wp-pay.org/gateways/sisow-ideal-basic/",
 	"license": "GPL",
 	"authors": [
